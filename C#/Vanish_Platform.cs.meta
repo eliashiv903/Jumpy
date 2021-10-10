@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ea24f2f8956c6143aa58e77b8e03aa7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BluePlatform: {fileID: 9028325620967221871, guid: 2951aa40abc1bf4438b5091471f96daa, type: 3}
+  - ps: {fileID: 1095096932085977965, guid: 388a2fc37cd41924994d257b667c34f0, type: 3}
+  - Player: {fileID: 2312604676918619914, guid: 35c08e85c0ecff14da2e13b35d082ac5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
